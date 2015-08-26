@@ -1,2 +1,0 @@
-# Fundamentals
-SoftUni fundamentals repository
