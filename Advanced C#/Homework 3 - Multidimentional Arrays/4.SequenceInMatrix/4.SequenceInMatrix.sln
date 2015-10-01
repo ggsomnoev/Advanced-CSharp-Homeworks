@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.SequenceInMatrix", "4.SequenceInMatrix\4.SequenceInMatrix.csproj", "{051832EA-B394-4870-A75A-5A8369EA7C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051832EA-B394-4870-A75A-5A8369EA7C0C}.Debug|x86.ActiveCfg = Debug|x86
+		{051832EA-B394-4870-A75A-5A8369EA7C0C}.Debug|x86.Build.0 = Debug|x86
+		{051832EA-B394-4870-A75A-5A8369EA7C0C}.Release|x86.ActiveCfg = Release|x86
+		{051832EA-B394-4870-A75A-5A8369EA7C0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 4.SequenceInMatrix\4.SequenceInMatrix.csproj
+	EndGlobalSection
+EndGlobal

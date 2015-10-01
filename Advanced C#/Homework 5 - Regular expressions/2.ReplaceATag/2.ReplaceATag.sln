@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReplaceATag", "2.ReplaceATag\2.ReplaceATag.csproj", "{3B86F025-6EEA-4435-9CEE-C23348DEE35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B86F025-6EEA-4435-9CEE-C23348DEE35A}.Debug|x86.ActiveCfg = Debug|x86
+		{3B86F025-6EEA-4435-9CEE-C23348DEE35A}.Debug|x86.Build.0 = Debug|x86
+		{3B86F025-6EEA-4435-9CEE-C23348DEE35A}.Release|x86.ActiveCfg = Release|x86
+		{3B86F025-6EEA-4435-9CEE-C23348DEE35A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 2.ReplaceATag\2.ReplaceATag.csproj
+	EndGlobalSection
+EndGlobal

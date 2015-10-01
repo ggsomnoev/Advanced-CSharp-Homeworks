@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReverseString", "1.ReverseString\1.ReverseString.csproj", "{E888BA4F-2D00-4DBE-8743-24E609F33029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E888BA4F-2D00-4DBE-8743-24E609F33029}.Debug|x86.ActiveCfg = Debug|x86
+		{E888BA4F-2D00-4DBE-8743-24E609F33029}.Debug|x86.Build.0 = Debug|x86
+		{E888BA4F-2D00-4DBE-8743-24E609F33029}.Release|x86.ActiveCfg = Release|x86
+		{E888BA4F-2D00-4DBE-8743-24E609F33029}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 1.ReverseString\1.ReverseString.csproj
+	EndGlobalSection
+EndGlobal
